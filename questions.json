@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Choose the correct option after performing the operations on the given modelled fractions.<br><img width='85%' src='./assests/images/13.png'>",
+    "options": [
+      "./assests/optionImg/1.jpg",
+      "./assests/optionImg/2.jpg",
+      "./assests/optionImg/3.jpg",
+      "./assests/optionImg/4.jpg"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Choose the correct option after performing the operations on the given modelled fractions.<br><img width='85%' src='./assests/images/14.png'>",
+    "options": [
+      "./assests/optionImg/5.jpg",
+      "./assests/optionImg/6.jpg",
+      "./assests/optionImg/7.jpg",
+      "./assests/optionImg/8.jpg"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Solve :<br><img width='85%' src='./assests/images/15.png'>",
+    "options": [
+      "./assests/optionImg/9.jpg",
+      "./assests/optionImg/10.jpg",
+      "./assests/optionImg/11.jpg",
+      "./assests/optionImg/12.jpg"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Choose the correct option after performing the operations on the given modelled fractions.<br><img width='85%' src='./assests/images/16.png'>",
+    "options": [
+      "./assests/optionImg/13.jpg",
+      "./assests/optionImg/14.jpg",
+      "./assests/optionImg/15.jpg",
+      "./assests/optionImg/16.jpg"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Which of the following is the result when all the like fractions from the given list are divided?<br><img width='85%' src='./assests/images/17.png'>",
+    "options": [
+      "./assests/optionImg/17.jpg",
+      "./assests/optionImg/18.jpg",
+      "./assests/optionImg/19.jpg",
+      "./assests/optionImg/20.jpg"
+    ],
+    "correct": 2
+  }
+]
